@@ -6,7 +6,8 @@
 
 ###
 
-<p align="left">I'm a third-year computer science student at the University of Technology in Gdańsk. 🎓</p>
+<p align="left"> - computer science student at the University of Technology in Gdańsk</p
+<p align="left"> - software engineer intern at Adtran</p
 
 ###
 
