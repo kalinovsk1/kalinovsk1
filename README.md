@@ -6,8 +6,8 @@
 
 ###
 
-<p align="left"> - Master's degree in Computer Science from University of Technology in Gdańsk</p
-<p align="left"> - software engineer intern at Adtran</p
+<p align="left"> Master's degree in Computer Science from University of Technology in Gdańsk</p
+<p align="left"> Software Engineer at Adtran</p
 
 ###
 
